@@ -2,6 +2,8 @@
 
 <img align='center' src='https://github-readme-stats.vercel.app/api?username=KoNickss&show_icons=true&theme=dark'></img>
 
+https://titanbox.duckdns.org
+
 Hi, welcome to my page 👋
 
 I'm a CS student at the Bucharest National College of Computer Science, I really enjoy Lnx, C, working with UNIX, making and maintaining websites, and figuring things out on my own, I really enjoy working on a team and contributing to foss. I also enjoy playing basketball, gaming, and in general talking and hangning around with people
