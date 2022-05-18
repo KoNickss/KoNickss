@@ -2,7 +2,7 @@
 
 <img align='center' src='https://github-readme-stats.vercel.app/api?username=KoNickss&show_icons=true&theme=dark'></img>
 
-https://titanbox.duckdns.org
+https://puly.ro.lt
 
 Hi, welcome to my page 👋
 
