@@ -2,7 +2,7 @@
 
 <img align='center' src='https://github-readme-stats.vercel.app/api?username=KoNickss&show_icons=true&theme=dark'></img>
 
-https://puly.ro.lt
+https://puly.uk.to
 
 Hi, welcome to my page 👋
 
