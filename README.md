@@ -16,4 +16,4 @@ I'm a CS student at the Bucharest National College of Computer Science, I really
 
 - 📖 Most repos on my page so far are hello worlds on different topics, most of them really outdated and having really bad code, I'm just now starting to work on projects I'm proud of
 
-## Contact: Discord @Puly4#3442 | Email konicksdev@gmail.com | Insta @puly.radu
+## Contact: Discord @Puly4#3442 | Email ioachim.radu@protonmail.com | Insta @puly.radu
